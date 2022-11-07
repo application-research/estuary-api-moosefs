@@ -2,11 +2,12 @@
 db-staging-pg01 ansible_host=147.75.35.93 equinix_uuid=182c00d4-d11c-4c36-a801-5f2b7b1f160a
 db-staging-pg02 ansible_host=147.75.35.95 equinix_uuid=0fdb21dd-a6d0-491a-92d8-c046fce5c52b
 db-staging-pg03 ansible_host=147.28.141.19 equinix_uuid=8b831128-3905-4b9a-9e56-18fc9967a0c3
-
-[moosefs_master]
 api-staging-api01 ansible_host=139.178.86.35 equinix_uuid=0ea77c73-20f1-4b8f-8ecb-41a51c0a0ff5
 api-staging-api02 ansible_host=139.178.86.53 equinix_uuid=59608670-e4ee-421f-92ac-4d5da0e17148
 api-staging-api03 ansible_host=139.178.86.3 equinix_uuid=466be900-7240-4035-9736-e5f8b187cab6
+
+[moosefs_master]
+api-staging-api01 ansible_host=139.178.86.35 equinix_uuid=0ea77c73-20f1-4b8f-8ecb-41a51c0a0ff5
 
 [moosefs_metalogger]
 api-staging-api02 ansible_host=139.178.86.53 equinix_uuid=59608670-e4ee-421f-92ac-4d5da0e17148
