@@ -1,5 +1,7 @@
-moosefs-playbook
+estuary-api-moosefs
 ================
+
+Based on moosefs-playbook.
 
 MooseFS on autopilot. Makes setting up, upgrading, maintaining and troubleshooting MooseFS a breeze.
 
