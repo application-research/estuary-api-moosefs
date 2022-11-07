@@ -8,7 +8,7 @@ moosefs_brick_fstype: xfs
 # You can adjust any of this to suit your own installations.
 
 # MooseFS master host
-moosefs_master_host: mfsmaster
+moosefs_master_host: 10.70.197.153
 
 # The version of MooseFS to install and upgrade to. Only used for machines that need to build from source.
 moosefs_version: '3.0.116'
