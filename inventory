@@ -25,3 +25,4 @@ api-staging-api03 ansible_host=139.178.86.3 equinix_uuid=466be900-7240-4035-9736
 api-staging-api01 ansible_host=139.178.86.35 equinix_uuid=0ea77c73-20f1-4b8f-8ecb-41a51c0a0ff5
 api-staging-api02 ansible_host=139.178.86.53 equinix_uuid=59608670-e4ee-421f-92ac-4d5da0e17148
 api-staging-api03 ansible_host=139.178.86.3 equinix_uuid=466be900-7240-4035-9736-e5f8b187cab6
+db-staging-migrator ansible_host=147.75.47.9 equinix_uuid=e9819497-1e45-4947-bf17-86dc402649a8
